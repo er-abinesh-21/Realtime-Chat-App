@@ -12,7 +12,9 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-#### Project Title: ByteTalk - Realtime Chat Application
+---
+
+# Project Title: ByteTalk - Realtime Chat Application
 
 #### Project Description:
 
