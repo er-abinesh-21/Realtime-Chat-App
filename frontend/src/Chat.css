@@ -1,0 +1,157 @@
+body {
+    background-image: url(../images/wave-golden-abstract-background-illustration-free-vector.jpg);
+    background-size: cover; /* Changed to cover for better background fit */
+    display: flex;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
+    margin: 0; /* Remove default margin */
+}
+
+.chat-container {
+    width: 500px;
+    height: 500px;
+    margin: 20px auto;
+    border: 2px solid gold;
+    border-radius: 8px;
+    box-shadow: 0 2px 30px rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    background-image: url(../images/gettyimages-1415868541-612x612.jpg);
+    background-position: center;
+    background-size: cover; /* Ensure the background covers the container */
+}
+
+.room {
+    font-size: 30px;
+}
+
+.header {
+    background: linear-gradient(gold, rgb(255, 225, 106), rgb(194, 165, 0));
+    color: black;
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 30px;
+    border: solid 3px #ffdd00;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+.input {
+    width: 430px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.messages {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    max-height: 300px;
+}
+
+.message {
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Styles for sent messages */
+.message.me {
+    background-color: #67f8fd85; /* Light green for sent messages */
+    text-align: right; /* Align sent messages to the right */
+    font-weight: bolder;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+/* Styles for received messages */
+.message.other {
+    background-color: #ff5c5c83; /* Gray for received messages */
+    text-align: left; /* Align received messages to the left */
+    font-weight: bolder;font-family: Verdana, Tahoma, sans-serif;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.text-muted {
+    font-size: 12px;
+    color: gray;
+}
+
+input {
+    border: 3px solid gold;
+    outline: gold;
+    border-radius: 30px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    padding: 10px;
+    border: solid 2px rgb(46, 46, 46);
+    border-radius: 40px;
+    background: gold;
+    font-size: 24px;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+button:hover {
+    background: linear-gradient(gold, rgb(115, 102, 27));
+    border: solid 2px gold;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+.join-room {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.join-room input {
+    margin-bottom: 10px;
+}
+
+.message-input {
+    font-size: 24px;
+    padding: 15px;
+    width: 440px;
+    margin: 5px;
+}
+
+.message-input:hover {
+    border: 3px solid silver;
+    background: linear-gradient(gold, rgb(255, 255, 255));
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+.footer {
+    text-align: center;
+}
+
+.send{
+    margin: 5px;
+}
+
+.clearchat{
+    margin: 5px;
+}
+
+.send:hover{
+    background: linear-gradient(gold, rgb(0, 255, 47));
+    border: solid 2px rgb(0, 143, 14);
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+.clearchat:hover{
+    background: linear-gradient(gold, rgb(255, 0, 0));
+    border: solid 2px rgb(143, 0, 0);
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
