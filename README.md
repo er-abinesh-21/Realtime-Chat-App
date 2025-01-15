@@ -64,8 +64,8 @@ This repository contains a **Real-Time Chat Application** built using **Socket.I
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/real-time-chat-app.git
-   cd real-time-chat-app
+   git clone https://github.com/er-abinesh-21/Realtime-Chat-App.git
+   cd Realtime-Chat-App
    ```
 
 2. **Install dependencies for the backend and frontend:**
@@ -98,6 +98,18 @@ This repository contains a **Real-Time Chat Application** built using **Socket.I
 - Launch the app and log in with a username to join a chat room.
 - Create or join an existing chat room.
 - Start chatting with real-time message updates.
+
+---
+
+## 📸 Screenshots
+
+1. Home Page  
+   *[Home](https://github.com/user-attachments/assets/7750062a-ed42-44e6-806c-2a078bea39e8)*
+
+2. Search Results  
+   * [User 1](https://github.com/user-attachments/assets/443c2f40-e744-4c16-931b-9fe031a79f48)*
+
+   *[User 2](https://github.com/user-attachments/assets/faa2c987-d106-4045-8fa1-419652577f38)*
 
 ---
 
