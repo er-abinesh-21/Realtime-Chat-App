@@ -107,7 +107,7 @@ This repository contains a **Real-Time Chat Application** built using **Socket.I
    *[Home](https://github.com/user-attachments/assets/7750062a-ed42-44e6-806c-2a078bea39e8)*
 
 2. Search Results  
-   * [User 1](https://github.com/user-attachments/assets/443c2f40-e744-4c16-931b-9fe031a79f48)*
+   *[User 1](https://github.com/user-attachments/assets/443c2f40-e744-4c16-931b-9fe031a79f48)*
 
    *[User 2](https://github.com/user-attachments/assets/faa2c987-d106-4045-8fa1-419652577f38)*
 
