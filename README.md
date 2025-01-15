@@ -14,9 +14,9 @@
 
 ---
 
-# Project Title: ByteTalk - Realtime Chat Application
+# Project Title : ByteTalk - Realtime Chat Application
 
-#### Project Description:
+#### Project Description :
 
 This repository contains a **Real-Time Chat Application** built using **Socket.IO** for the backend and **React** for the frontend. The project demonstrates a functional chat system with live messaging capabilities, offering users a seamless and interactive communication experience. This app serves as a foundational example of real-time web applications and can be extended for various use cases, such as team collaboration tools, social networking platforms, or customer support chat systems.
 
